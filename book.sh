@@ -1,4 +1,3 @@
 #!/bin/bash
 #
-#euio
-#gfkjsl
+#l
